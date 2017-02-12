@@ -1,7 +1,7 @@
 IMPORTANT: 
 ------------------------------------------------------
 This project is protected by a patent from SAP, so I had to remove everything. If you
-would like to get the source code. please contact me at stanislav.dashevskyi[at]unitn.it
+would like to get the source code, please contact me at stanislav.dashevskyi[at]unitn.it
 
 
 About:
